@@ -1,6 +1,21 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.svn
+.manager
+.idea
+*.log
+*.aw5db
+target
+.settings
+.metadata
+.project
+.classpath
+.pmd
+.ruleset
+*.docs
+.scala_dependencies
+*.iml
+*.ipr
+*.iws
+*~
+*.jnl
+*.db
+.idea/*
