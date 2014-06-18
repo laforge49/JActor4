@@ -4,6 +4,7 @@ import junit.framework.TestCase;
 
 public class OneTest extends TestCase {
     public void test1() {
-		System.out.println("Hi!");
+        One one = new One();
+		System.out.println(one.getGreeting());
 	}
 }
